@@ -1,1 +1,3 @@
-Alex story
+Alex's Story:
+
+Once upon a time there a CS student named Alex. He was very good at working with Linux and helping his teammate learn how to use this platform. His teammate Jon, whom is a bit older, especially needed extra help. After helping Jon figure out how to use Linux terminal commands better, Alex went to eat dinner at a great local restaurant and had a great evening.
