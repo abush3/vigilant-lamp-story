@@ -1,5 +1,6 @@
 Alex's Story:
 
+
 Once upon a time there a CS student named Alex. He was very good at working 
 with Linux and helping his teammate learn how to use this platform. His 
 teammate Jon, whom is a bit older, especially needed extra help. 
